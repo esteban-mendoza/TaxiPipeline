@@ -1,0 +1,14 @@
+Test - API Key
+
+User: esteban.mendoza@outlook.com
+Pass: M3nd0z40_
+
+Key ID: bye6u9qzhzsz9bqvbn6xojm82
+Key Secret: vw882msa59ots5kww4ztq6y82fu5amcpgnvtfnwt4m8qd566x
+
+TaxiQL - App Token
+App Token: qVLvr56Nnt8io67HJ3Xy6DkUi
+Secret Token: L72E8WECHXluRilquNbzWp-CD2hvOyTdNAu6
+
+API Endpoint
+https://data.cityofnewyork.us/resource/t29m-gskq.csv
