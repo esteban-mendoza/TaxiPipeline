@@ -14,7 +14,7 @@ client = Socrata(
     domain="data.cityofnewyork.us",
     app_token="qVLvr56Nnt8io67HJ3Xy6DkUi",
     username="esteban.mendoza@outlook.com",
-    password="M3nd0z40_",
+    password="" # Substitute this string by the real password,
     timeout=60
 )
 
